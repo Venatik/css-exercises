@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(223, 92, 175);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.butCooler {
+    font-size: 24px;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+#two {
+    background-color: rgb(89, 195, 117);
+    font-weight: bold;
+}
